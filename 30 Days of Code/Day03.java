@@ -1,4 +1,4 @@
-// Intro to Consitional Statements
+// Intro to Conditional Statements
 
 import java.io.*;
 import java.util.*;
